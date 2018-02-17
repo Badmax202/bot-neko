@@ -73,5 +73,5 @@ if (command === "sayd") {
 	if (command === "weekcat") {
 		message.channel.sendMessage(":speech_balloon: Voici le chat du jour : https://media1.popsugar-assets.com/files/thumbor/kzUkEhaYWmLfnU6Pi79Eij54B2Y/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/08/08/840/n/1922507/451ce76f4a688e7b_rs_500x281-140808102730-cutest-cat-gifs-please/i/Whatheckyoudoing.gif")
 	}
-}
+});
 bot.login(process.env.BOT_TOKEN);
