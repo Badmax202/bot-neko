@@ -1,5 +1,5 @@
 {
-  "name": "Neko Bot",
+  "name": "bot-neko",
   "description": "A Discord Cat Bot",
   "version": "0.0.3",
   "main": "bot.js",
